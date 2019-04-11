@@ -1,3 +1,6 @@
+//
+// Given number N eliminate K digits to get maximum possible number. The digits must remain at their positions.
+//
 #include<iostream>
 #include<deque>
 #include<vector>
