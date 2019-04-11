@@ -1,4 +1,4 @@
-// Question on Dutch national flag sorting problem.
+// Dutch national flag sorting problem.
 //Sort an array of 0s, 1s and 2s
 #include<iostream>
 #include<vector>
